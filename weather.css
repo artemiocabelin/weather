@@ -1,5 +1,22 @@
 #main {
-    background: yellow;
+    /*background: yellow;*/
     width: 1000px;
     height: 2000px;
+    padding: 10px;
+}
+
+form {
+    /*background: grey;*/
+    height: 21px;
+    width: 240px;
+    padding:10px;
+
+}
+
+#weather, button {
+    display: inline-block;
+}
+
+#weather {
+
 }
